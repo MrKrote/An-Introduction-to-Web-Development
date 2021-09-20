@@ -11,7 +11,6 @@
 
 >  
 > CSS - HTML - JS  
-> 
 > The Purple Dino Danced  
 
 **CCS** - (purple) - It helps us describe HTML elements,things on the pages..make this purple,change the font size,give it a border,shadow.- **OUTLOOK**  
