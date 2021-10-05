@@ -9,6 +9,8 @@
 **These Resources/documents** - are identified by URLs (Uniform Resource Locators) and are transferred via HTTP (Hypertext Transfer Protocol)  
 **HTTP** - is a protocol , how communication should work  
 
+&nbsp;
+
 >  
 > CSS - HTML - JS  
 > 
